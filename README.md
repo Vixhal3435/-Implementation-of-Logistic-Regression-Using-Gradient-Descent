@@ -67,7 +67,7 @@ RegisterNumber: 24900179
  xnew=np.array([[0,87,0,95,0,2,78,2,0,0,1,0]])
  y_prednew=predict(theta,xnew)
  print("Predicted Result:",y_prednew)
-
+```
 ## Output:
 [EX 06(ml).pdf](https://github.com/user-attachments/files/17848583/EX.06.ml.pdf)
 
