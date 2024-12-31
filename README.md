@@ -69,7 +69,9 @@ RegisterNumber: 24900179
  print("Predicted Result:",y_prednew)
 ```
 ## Output:
-[EX 06(ml).pdf](https://github.com/user-attachments/files/17848583/EX.06.ml.pdf)
+![image](https://github.com/user-attachments/assets/32b4b2d3-750d-4161-bc99-c0b86e93ab64)
+![image](https://github.com/user-attachments/assets/e82e7d80-743f-4fad-9caf-c220ce1fcbd4)
+
 
 
 
