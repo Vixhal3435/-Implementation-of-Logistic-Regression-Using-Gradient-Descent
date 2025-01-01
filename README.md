@@ -8,10 +8,33 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Problem Definition
+
+Identify the independent variables (X) and dependent variable (Y) with binary outcomes (e.g., 0 or 1).
+
+2.Load and Preprocess Data
+
+Load data and preprocess it (e.g., handle missing values, normalize features, and encode categorical variables).
+
+3.Initialize Parameters
+
+Randomly initialize weights (θ) and a bias term (b).
+
+4.Logistic Function
+
+Define the logistic/sigmoid function
+
+5.Cost Function
+
+Use the binary cross-entropy loss
+
+6.Repeat Until Convergence
+
+Update parameters until the cost function converges or stops decreasing significantly.
+
+7.Prediction and Evaluation
+
+Predict outcomes for the test set using the sigmoid function and evaluate the model using accuracy and other metrics.
 
 ## Program:
 ```
